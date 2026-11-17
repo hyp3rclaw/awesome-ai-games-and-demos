@@ -1,0 +1,65 @@
+{
+  "count": 1,
+  "games": [
+    {
+      "title": "Goku: Four-Star Road",
+      "summary": "Fan-made Dragon Ball beat 'em up through the Red Ribbon camp to Muscle Tower",
+      "description": "Kid Goku sets out alone to find his grandfather's four-star Dragon Ball. Fight through Colonel Silver's Red Ribbon camp, take the snow road to Muscle Tower and face Sergeant Metallic. Power Pole, flying kicks and the Kamehameha.",
+      "genres": [
+        "action",
+        "adventure",
+        "beat-em-up"
+      ],
+      "tags": [
+        "fan-game",
+        "anime"
+      ],
+      "platforms": [
+        "web"
+      ],
+      "inputs": [
+        "keyboard"
+      ],
+      "modes": [
+        "single-player"
+      ],
+      "price": "free",
+      "creators": [
+        "aniketjart"
+      ],
+      "made_with": [
+        "crayon",
+        "fable-5-2",
+        "meshy",
+        "tripo",
+        "elevenlabs",
+        "opus-5-5",
+        "gpt-images"
+      ],
+      "links": [
+        {
+          "type": "play",
+          "url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8"
+        }
+      ],
+      "videos": [
+        {
+          "type": "x",
+          "url": "https://x.com/aniketjart/status/2121793239175119279"
+        }
+      ],
+      "note": "Fan-made, non-commercial",
+      "added": "2026-11-15",
+      "slug": "goku-four-star-road",
+      "type": "game",
+      "url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8",
+      "play_url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8",
+      "page": "browse/games/g/goku-four-star-road.md",
+      "thumb": "media/thumbs/goku-four-star-road.webp",
+      "cover": "media/covers/goku-four-star-road.jpg",
+      "featured": true
+    }
+  ],
+  "showcase_count": 0,
+  "showcase": []
+}

@@ -1,0 +1,27 @@
+name: Correct or remove a listing
+description: Request a change to an existing catalog entry.
+title: "[Listing] "
+body:
+  - type: input
+    id: listing
+    attributes:
+      label: Listing
+      description: Give the title or link to the existing catalog entry.
+    validations:
+      required: true
+  - type: dropdown
+    id: request
+    attributes:
+      label: Requested change
+      options:
+        - Correct listing details
+        - Remove this listing
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What should change? Include a source link if helpful.
+    validations:
+      required: true
