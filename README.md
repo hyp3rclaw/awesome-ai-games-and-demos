@@ -1,6 +1,6 @@
 # Awesome AI Games & Demos
 
-I collect AI-built browser games, 3D demos, interactive projects, and web platforms I like.
+Collecting and showcasing AI gems ~ browser games, 3D demos, interactive projects, and web platforms.
 
 [**Browse all**](browse/all.md) · [Games](browse/types/game.md) · [Catalog JSON](catalog.json)
 
