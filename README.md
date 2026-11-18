@@ -1,8 +1,8 @@
 # Awesome AI Games & Demos
 
-Collecting and showcasing AI gems ~ browser games, 3D demos, interactive projects, and web platforms.
+Collecting and showcasing AI gems ~ browser games, 3D demos, interactive projects, web platforms, and asset packs.
 
-[**Browse all**](browse/all.md) · [Games](browse/types/game.md) · [Catalog JSON](catalog.json)
+[**Browse all**](browse/all.md) · [Asset packs](browse/types/asset-pack.md) · [Games](browse/types/game.md) · [Catalog JSON](catalog.json)
 
 <table>
 <tr>
@@ -12,6 +12,27 @@ Collecting and showcasing AI gems ~ browser games, 3D demos, interactive project
 <p>Fan-made Dragon Ball beat 'em up through the Red Ribbon camp to Muscle Tower</p>
 <p><sub>Game · Web browser · keyboard · free · by <a href="browse/creators/aniketjart.md">Aniket</a></sub></p>
 <p><strong><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=goku-four-star-road">Play free</a></strong> · <a href="https://x.com/aniketjart/status/2121793239175119279">Watch gameplay</a></p>
+</td>
+</tr>
+</table>
+
+## Asset packs
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="browse/showcase/l/low-poly-city-architecture-pack.md"><img src="media/thumbs/low-poly-city-architecture-pack.webp" alt="Low-Poly City Architecture Pack: 10 low-poly buildings with dedicated collision geometry." width="100%"></a><br>
+<b><a href="browse/showcase/l/low-poly-city-architecture-pack.md">Low-Poly City Architecture Pack</a></b><br>
+10 low-poly buildings with dedicated collision geometry.<br>
+<sub>Asset pack · GLB · free · by <a href="browse/creators/crayon.md">Crayon</a></sub><br>
+<sub><a href="https://usecrayon.itch.io/city-architecture">Download free</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="browse/showcase/l/low-poly-city-trees-pack.md"><img src="media/thumbs/low-poly-city-trees-pack.webp" alt="Low-Poly City Trees Pack: 7 stylized trees with embedded bark and foliage textures." width="100%"></a><br>
+<b><a href="browse/showcase/l/low-poly-city-trees-pack.md">Low-Poly City Trees Pack</a></b><br>
+7 stylized trees with embedded bark and foliage textures.<br>
+<sub>Asset pack · GLB · free · by <a href="browse/creators/crayon.md">Crayon</a></sub><br>
+<sub><a href="https://usecrayon.itch.io/low-poly-city-trees-pack">Download free</a></sub>
 </td>
 </tr>
 </table>

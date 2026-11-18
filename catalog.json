@@ -60,6 +60,93 @@
       "featured": true
     }
   ],
-  "showcase_count": 0,
-  "showcase": []
+  "showcase_count": 2,
+  "showcase": [
+    {
+      "title": "Low-Poly City Architecture Pack",
+      "type": "asset-pack",
+      "summary": "10 low-poly buildings with dedicated collision geometry.",
+      "description": "Build out a town with homes, shops, offices, and public buildings. Each GLB model has fewer than 1,000 triangles.",
+      "formats": [
+        "GLB"
+      ],
+      "tags": [
+        "3d",
+        "glb",
+        "low-poly",
+        "threejs",
+        "city",
+        "architecture",
+        "collision-geometry"
+      ],
+      "price": "free",
+      "creators": [
+        "crayon"
+      ],
+      "links": [
+        {
+          "type": "itch",
+          "url": "https://usecrayon.itch.io/city-architecture"
+        }
+      ],
+      "note": "Name your own price on itch.io.",
+      "added": "2026-11-18",
+      "slug": "low-poly-city-architecture-pack",
+      "url": "https://usecrayon.itch.io/city-architecture",
+      "play_url": null,
+      "genres": [],
+      "platforms": [],
+      "videos": [],
+      "made_with": [],
+      "inputs": [],
+      "modes": [],
+      "page": "browse/showcase/l/low-poly-city-architecture-pack.md",
+      "thumb": "media/thumbs/low-poly-city-architecture-pack.webp",
+      "cover": "media/thumbs/low-poly-city-architecture-pack.webp",
+      "featured": false
+    },
+    {
+      "title": "Low-Poly City Trees Pack",
+      "type": "asset-pack",
+      "summary": "7 stylized trees with embedded bark and foliage textures.",
+      "description": "Populate streets, parks, or forests with seven GLB models, including a sakura, a maple, a coastal palm, and a pine. Models range from 500 to 776 triangles each.",
+      "formats": [
+        "GLB"
+      ],
+      "tags": [
+        "3d",
+        "glb",
+        "low-poly",
+        "threejs",
+        "city",
+        "trees",
+        "foliage"
+      ],
+      "price": "free",
+      "creators": [
+        "crayon"
+      ],
+      "links": [
+        {
+          "type": "itch",
+          "url": "https://usecrayon.itch.io/low-poly-city-trees-pack"
+        }
+      ],
+      "note": "Name your own price on itch.io.",
+      "added": "2026-11-18",
+      "slug": "low-poly-city-trees-pack",
+      "url": "https://usecrayon.itch.io/low-poly-city-trees-pack",
+      "play_url": null,
+      "genres": [],
+      "platforms": [],
+      "videos": [],
+      "made_with": [],
+      "inputs": [],
+      "modes": [],
+      "page": "browse/showcase/l/low-poly-city-trees-pack.md",
+      "thumb": "media/thumbs/low-poly-city-trees-pack.webp",
+      "cover": "media/thumbs/low-poly-city-trees-pack.webp",
+      "featured": false
+    }
+  ]
 }
