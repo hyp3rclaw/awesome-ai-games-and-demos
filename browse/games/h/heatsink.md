@@ -8,7 +8,7 @@
 
 Pilot the Ramjet between towers and fire on rival racers. Pushing the engine harder can give you the lead or end your run in a meltdown.
 
-[**Play**](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-ai-games-and-demos&utm_content=heatsink)
+[**Play**](https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-ai-games-and-demos&utm_content=heatsink) · [**Watch trailer**](https://x.com/aniketjart/status/2110158209738833985)
 
 | | |
 |---|---|

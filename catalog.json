@@ -31,7 +31,13 @@
           "url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "type": "x",
+          "url": "https://x.com/aniketjart/status/2110158209738833985",
+          "label": "Watch trailer"
+        }
+      ],
       "added": "2026-11-18",
       "slug": "heatsink",
       "type": "game",
