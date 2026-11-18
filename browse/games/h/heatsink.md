@@ -14,7 +14,7 @@ Pilot the Ramjet between towers and fire on rival racers. Pushing the engine har
 |---|---|
 | **Type** | [Game](../../types/game.md) |
 | **Genres** | [🏎️ Racing](../../genres/racing.md) · [🪽 Flying](../../genres/flying.md) · [⚔️ Action](../../genres/action.md) |
-| **Made with** | [🖍️ Crayon](../../made-with/crayon.md) |
+| **Made with** | [🖍️ Crayon](../../made-with/crayon.md) · [Opus 5.5](../../made-with/opus-5-5.md) · [Blender](../../made-with/blender.md) |
 | **Runs on** | [🌐 Web browser](../../platforms/web.md) |
 | **Tags** | [#drones](../../tags/drones.md) [#combat-racing](../../tags/combat-racing.md) |
 | **Added** | 2026-11-18 |
