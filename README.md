@@ -37,6 +37,21 @@ Collecting and showcasing AI gems ~ browser games, 3D demos, interactive project
 </tr>
 </table>
 
+## More to explore
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="browse/games/h/heatsink.md"><img src="media/thumbs/heatsink.webp" alt="HEATSINK: Race an armed drone through a rainy megacity while keeping its ramjet from overheating." width="100%"></a><br>
+<b><a href="browse/games/h/heatsink.md">HEATSINK</a></b><br>
+Race an armed drone through a rainy megacity while keeping its ramjet from overheating.<br>
+<sub>Game · Web browser</sub><br>
+<sub><a href="https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=heatsink">Play</a></sub>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
 [Details & credits](browse/games/g/goku-four-star-road.md) · [DM me on X to suggest a feature](https://x.com/TusharXo) · [Correct or remove a listing](../../issues/new?template=listed-game.yml)
 
 <details>
@@ -44,9 +59,9 @@ Collecting and showcasing AI gems ~ browser games, 3D demos, interactive project
 
 **Controls** · [keyboard](browse/inputs/keyboard.md) <sub>1</sub>
 
-**Genres** · [⚔️ Action](browse/genres/action.md) <sub>1</sub> · [🗺️ Adventure](browse/genres/adventure.md) <sub>1</sub> · [👊 Beat 'em up](browse/genres/beat-em-up.md) <sub>1</sub>
+**Genres** · [⚔️ Action](browse/genres/action.md) <sub>2</sub> · [🗺️ Adventure](browse/genres/adventure.md) <sub>1</sub> · [👊 Beat 'em up](browse/genres/beat-em-up.md) <sub>1</sub> · [🪽 Flying](browse/genres/flying.md) <sub>1</sub> · [🏎️ Racing](browse/genres/racing.md) <sub>1</sub>
 
-**Platforms** · [🌐 Web browser](browse/platforms/web.md) <sub>1</sub>
+**Platforms** · [🌐 Web browser](browse/platforms/web.md) <sub>2</sub>
 
 [Creators](browse/creators.md) · [All tags](browse/tags.md) · [Made with Crayon](browse/made-with/crayon.md)
 

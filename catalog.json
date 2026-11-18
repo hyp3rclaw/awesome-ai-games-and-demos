@@ -1,6 +1,45 @@
 {
-  "count": 1,
+  "count": 2,
   "games": [
+    {
+      "title": "HEATSINK",
+      "summary": "Race an armed drone through a rainy megacity while keeping its ramjet from overheating.",
+      "description": "Pilot the Ramjet between towers and fire on rival racers. Pushing the engine harder can give you the lead or end your run in a meltdown.",
+      "genres": [
+        "racing",
+        "flying",
+        "action"
+      ],
+      "tags": [
+        "drones",
+        "combat-racing"
+      ],
+      "platforms": [
+        "web"
+      ],
+      "inputs": [],
+      "modes": [],
+      "creators": [],
+      "made_with": [
+        "crayon"
+      ],
+      "links": [
+        {
+          "type": "play",
+          "url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda"
+        }
+      ],
+      "videos": [],
+      "added": "2026-11-18",
+      "slug": "heatsink",
+      "type": "game",
+      "url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda",
+      "play_url": "https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda",
+      "page": "browse/games/h/heatsink.md",
+      "thumb": "media/thumbs/heatsink.webp",
+      "cover": "media/thumbs/heatsink.webp",
+      "featured": false
+    },
     {
       "title": "Goku: Four-Star Road",
       "summary": "Fan-made Dragon Ball beat 'em up through the Red Ribbon camp to Muscle Tower",
