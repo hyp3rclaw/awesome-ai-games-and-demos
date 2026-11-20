@@ -1,6 +1,55 @@
 {
-  "count": 2,
+  "count": 3,
   "games": [
+    {
+      "title": "Yoyo Survival",
+      "summary": "Fight waves of goblins with a cosmic yoyo and chain tricks to survive.",
+      "description": "Take on goblin hordes in first-person combat and upgrade your yoyo between waves.",
+      "genres": [
+        "survival",
+        "action"
+      ],
+      "tags": [
+        "first-person",
+        "wave-survival",
+        "yoyo",
+        "goblins"
+      ],
+      "platforms": [
+        "web"
+      ],
+      "inputs": [],
+      "modes": [],
+      "creators": [],
+      "made_with": [
+        "crayon",
+        "threejs",
+        "fable-5-2"
+      ],
+      "links": [
+        {
+          "type": "play",
+          "url": "https://app.usecrayon.ai/play/951dfd15-82b3-4af4-be4d-96ac83d23227"
+        }
+      ],
+      "videos": [
+        {
+          "type": "x",
+          "url": "https://x.com/usecrayon/status/2123888594897301996",
+          "label": "Watch on X"
+        }
+      ],
+      "added": "2026-11-21",
+      "note": "Built with Crayon Pro.",
+      "slug": "yoyo-survival",
+      "type": "game",
+      "url": "https://app.usecrayon.ai/play/951dfd15-82b3-4af4-be4d-96ac83d23227",
+      "play_url": "https://app.usecrayon.ai/play/951dfd15-82b3-4af4-be4d-96ac83d23227",
+      "page": "browse/games/y/yoyo-survival.md",
+      "thumb": "media/thumbs/yoyo-survival.webp",
+      "cover": "media/thumbs/yoyo-survival.webp",
+      "featured": false
+    },
     {
       "title": "HEATSINK",
       "summary": "Race an armed drone through a rainy megacity while keeping its ramjet from overheating.",
