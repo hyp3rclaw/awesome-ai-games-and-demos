@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 4,
   "games": [
     {
       "title": "Yoyo Survival",
@@ -48,6 +48,54 @@
       "page": "browse/games/y/yoyo-survival.md",
       "thumb": "media/thumbs/yoyo-survival.webp",
       "cover": "media/thumbs/yoyo-survival.webp",
+      "featured": false
+    },
+    {
+      "title": "Crayon Heat",
+      "summary": "Tune your car in the garage and drift past rivals on city streets at night.",
+      "description": "Build your ride in the garage, then drift through Coral Beach, a Miami-inspired map that takes you from sunset into neon night.",
+      "genres": [
+        "racing",
+        "driving"
+      ],
+      "tags": [
+        "cars",
+        "drifting"
+      ],
+      "platforms": [
+        "web"
+      ],
+      "inputs": [],
+      "modes": [],
+      "price": "free",
+      "creators": [],
+      "made_with": [
+        "crayon",
+        "fable-5-2",
+        "threejs"
+      ],
+      "links": [
+        {
+          "type": "play",
+          "url": "https://app.usecrayon.ai/play/0ad7fcc3-13e3-4d31-8a91-024f445ca94c"
+        }
+      ],
+      "videos": [
+        {
+          "type": "x",
+          "url": "https://x.com/usecrayon/status/2123219230749491406",
+          "label": "Watch on X"
+        }
+      ],
+      "added": "2026-11-18",
+      "note": "Built with Crayon Pro.",
+      "slug": "crayon-heat",
+      "type": "game",
+      "url": "https://app.usecrayon.ai/play/0ad7fcc3-13e3-4d31-8a91-024f445ca94c",
+      "play_url": "https://app.usecrayon.ai/play/0ad7fcc3-13e3-4d31-8a91-024f445ca94c",
+      "page": "browse/games/c/crayon-heat.md",
+      "thumb": "media/thumbs/crayon-heat.webp",
+      "cover": "media/thumbs/crayon-heat.webp",
       "featured": false
     },
     {
