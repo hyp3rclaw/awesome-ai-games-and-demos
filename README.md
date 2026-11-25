@@ -11,7 +11,8 @@ Collecting and showcasing AI gems ~ browser games, 3D demos, interactive project
 <h2><a href="browse/games/g/goku-four-star-road.md">Goku: Four-Star Road</a></h2>
 <p>Fan-made Dragon Ball beat 'em up through the Red Ribbon camp to Muscle Tower</p>
 <p><sub>Game · Web browser · keyboard · free · by <a href="browse/creators/aniketjart.md">Aniket</a></sub></p>
-<p><strong><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=goku-four-star-road">Play free</a></strong> · <a href="https://x.com/aniketjart/status/2121793239175119279">Watch gameplay</a></p>
+<p><sub>November 25, 2026 update · Ninja Murasaki and his brothers</sub></p>
+<p><strong><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=goku-four-star-road">Play free</a></strong> · <a href="https://x.com/aniketjart/status/2125437977371525313">Watch latest update</a></p>
 </td>
 </tr>
 </table>
