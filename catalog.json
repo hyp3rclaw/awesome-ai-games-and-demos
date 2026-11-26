@@ -156,7 +156,12 @@
       ],
       "tags": [
         "fan-game",
-        "anime"
+        "anime",
+        "dragon-ball",
+        "red-ribbon-army",
+        "android-8",
+        "maze",
+        "ninja-murasaki"
       ],
       "platforms": [
         "web"
@@ -196,18 +201,32 @@
         }
       ],
       "latest_update": {
-        "date": "2026-11-25",
-        "title": "Ninja Murasaki and his brothers",
-        "summary": "Aniket added Ninja Murasaki and his brothers to the Red Ribbon fan game, along with new models.",
-        "play_url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?v=mwvl7kzu",
-        "video_url": "https://x.com/aniketjart/status/2125437977371525313",
+        "date": "2026-11-26",
+        "title": "Eighter joins Goku in the maze",
+        "summary": "Android 8 (Eighter) joins Goku to help him find a way out of the maze. Aniket says two more levels are still to come.",
+        "play_url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8",
+        "video_url": "https://x.com/aniketjart/status/2125840506131522003",
         "made_with": [
-          "gemini-neon",
           "fable-5-2",
           "threejs",
           "crayon"
         ]
       },
+      "previous_updates": [
+        {
+          "date": "2026-11-25",
+          "title": "Ninja Murasaki and his brothers",
+          "summary": "Aniket added Ninja Murasaki and his brothers to the Red Ribbon fan game, along with new models.",
+          "play_url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?v=mwvl7kzu",
+          "video_url": "https://x.com/aniketjart/status/2125437977371525313",
+          "made_with": [
+            "gemini-neon",
+            "fable-5-2",
+            "threejs",
+            "crayon"
+          ]
+        }
+      ],
       "note": "Fan-made, non-commercial",
       "added": "2026-11-15",
       "slug": "goku-four-star-road",
