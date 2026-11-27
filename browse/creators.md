@@ -2,7 +2,7 @@
 
 # All creators
 
-2 creators, A to Z.
+3 creators, A to Z.
 
 ### A
 
@@ -11,3 +11,7 @@
 ### C
 
 [Crayon](creators/crayon.md) <sub>2</sub>
+
+### T
+
+[Tushar](creators/tusharxo.md) <sub>1</sub>

@@ -10,6 +10,15 @@ Kid Goku sets out alone to find his grandfather's four-star Dragon Ball. Fight t
 
 [**Play free**](https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-ai-games-and-demos&utm_content=goku-four-star-road) · [**Original gameplay**](https://x.com/aniketjart/status/2121793239175119279)
 
+**November 27, 2026 update · Animation polish and two maps in development**
+
+Aniket shared a progression clip and described ongoing work on the 3D models for animation. Two more maps are in development. Aniket credits Gemini 4 Neon for recording the clip.
+
+[**Watch the update on X**](https://x.com/aniketjart/status/2126186809902440836)
+
+<details>
+<summary>Previous updates</summary>
+
 **November 26, 2026 update · Eighter joins Goku in the maze**
 
 Android 8 (Eighter) joins Goku to help him find a way out of the maze. Aniket says two more levels are still to come.
@@ -17,9 +26,6 @@ Android 8 (Eighter) joins Goku to help him find a way out of the maze. Aniket sa
 This update credits [Fable 5.2](../../made-with/fable-5-2.md) · [Three.js](../../made-with/threejs.md) · [🖍️ Crayon](../../made-with/crayon.md).
 
 [**Watch the update on X**](https://x.com/aniketjart/status/2125840506131522003)
-
-<details>
-<summary>Previous updates</summary>
 
 **November 25, 2026 update · Ninja Murasaki and his brothers**
 

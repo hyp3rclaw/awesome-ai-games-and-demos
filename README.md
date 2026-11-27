@@ -11,8 +11,8 @@ Collecting and showcasing AI gems ~ browser games, 3D demos, interactive project
 <h2><a href="browse/games/g/goku-four-star-road.md">Goku: Four-Star Road</a></h2>
 <p>Fan-made Dragon Ball beat 'em up through the Red Ribbon camp to Muscle Tower</p>
 <p><sub>Game · Web browser · keyboard · free · by <a href="browse/creators/aniketjart.md">Aniket</a></sub></p>
-<p><sub>November 26, 2026 update · Eighter joins Goku in the maze</sub></p>
-<p><strong><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=goku-four-star-road">Play free</a></strong> · <a href="https://x.com/aniketjart/status/2125840506131522003">Watch latest update</a></p>
+<p><sub>November 27, 2026 update · Animation polish and two maps in development</sub></p>
+<p><strong><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=goku-four-star-road">Play free</a></strong> · <a href="https://x.com/aniketjart/status/2126186809902440836">Watch latest update</a></p>
 </td>
 </tr>
 </table>
@@ -43,12 +43,21 @@ Collecting and showcasing AI gems ~ browser games, 3D demos, interactive project
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="browse/games/t/thread-ripper.md"><img src="media/thumbs/thread-ripper.webp" alt="Thread Ripper: A black-and-white manga roguelike set in a ruined shrine." width="100%"></a><br>
+<b><a href="browse/games/t/thread-ripper.md">Thread Ripper</a></b><br>
+A black-and-white manga roguelike set in a ruined shrine.<br>
+<sub>Game · Web browser · by <a href="browse/creators/tusharxo.md">Tushar</a></sub><br>
+<sub><a href="https://app.usecrayon.ai/play/thread-ripper?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=thread-ripper">Play</a> · <a href="https://x.com/TusharXo/status/2126334267894677982">Watch gameplay</a></sub>
+</td>
+<td width="50%" valign="top">
 <a href="browse/games/y/yoyo-survival.md"><img src="media/thumbs/yoyo-survival.webp" alt="Yoyo Survival: Fight waves of goblins with a cosmic yoyo and chain tricks to survive." width="100%"></a><br>
 <b><a href="browse/games/y/yoyo-survival.md">Yoyo Survival</a></b><br>
 Fight waves of goblins with a cosmic yoyo and chain tricks to survive.<br>
 <sub>Game · Web browser</sub><br>
 <sub><a href="https://app.usecrayon.ai/play/951dfd15-82b3-4af4-be4d-96ac83d23227?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=yoyo-survival">Play</a> · <a href="https://x.com/usecrayon/status/2123888594897301996">Watch on X</a></sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="browse/games/c/crayon-heat.md"><img src="media/thumbs/crayon-heat.webp" alt="Crayon Heat: Tune your car in the garage and drift past rivals on city streets at night." width="100%"></a><br>
 <b><a href="browse/games/c/crayon-heat.md">Crayon Heat</a></b><br>
@@ -56,8 +65,6 @@ Tune your car in the garage and drift past rivals on city streets at night.<br>
 <sub>Game · Web browser · free</sub><br>
 <sub><a href="https://app.usecrayon.ai/play/0ad7fcc3-13e3-4d31-8a91-024f445ca94c?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=crayon-heat">Play free</a> · <a href="https://x.com/usecrayon/status/2123219230749491406">Watch on X</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="browse/games/h/heatsink.md"><img src="media/thumbs/heatsink.webp" alt="HEATSINK: Race an armed drone through a rainy megacity while keeping its ramjet from overheating." width="100%"></a><br>
 <b><a href="browse/games/h/heatsink.md">HEATSINK</a></b><br>
@@ -65,7 +72,6 @@ Race an armed drone through a rainy megacity while keeping its ramjet from overh
 <sub>Game · Web browser</sub><br>
 <sub><a href="https://app.usecrayon.ai/play/4698c657-3950-438a-9b64-b5fe778fcfda?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=heatsink">Play</a> · <a href="https://x.com/aniketjart/status/2110158209738833985">Watch trailer</a></sub>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -76,9 +82,9 @@ Race an armed drone through a rainy megacity while keeping its ramjet from overh
 
 **Controls** · [keyboard](browse/inputs/keyboard.md) <sub>1</sub>
 
-**Genres** · [⚔️ Action](browse/genres/action.md) <sub>3</sub> · [🏎️ Racing](browse/genres/racing.md) <sub>2</sub> · [🗺️ Adventure](browse/genres/adventure.md) <sub>1</sub> · [👊 Beat 'em up](browse/genres/beat-em-up.md) <sub>1</sub> · [🚗 Driving](browse/genres/driving.md) <sub>1</sub> · [🪽 Flying](browse/genres/flying.md) <sub>1</sub> · [🔥 Survival](browse/genres/survival.md) <sub>1</sub>
+**Genres** · [⚔️ Action](browse/genres/action.md) <sub>4</sub> · [🏎️ Racing](browse/genres/racing.md) <sub>2</sub> · [🗺️ Adventure](browse/genres/adventure.md) <sub>1</sub> · [👊 Beat 'em up](browse/genres/beat-em-up.md) <sub>1</sub> · [🚗 Driving](browse/genres/driving.md) <sub>1</sub> · [🪽 Flying](browse/genres/flying.md) <sub>1</sub> · [🎲 Roguelike](browse/genres/roguelike.md) <sub>1</sub> · [🔥 Survival](browse/genres/survival.md) <sub>1</sub>
 
-**Platforms** · [🌐 Web browser](browse/platforms/web.md) <sub>4</sub>
+**Platforms** · [🌐 Web browser](browse/platforms/web.md) <sub>5</sub>
 
 [Creators](browse/creators.md) · [All tags](browse/tags.md) · [Made with Crayon](browse/made-with/crayon.md)
 

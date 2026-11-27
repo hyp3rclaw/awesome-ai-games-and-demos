@@ -2,10 +2,17 @@
 
 # ⚔️ Action
 
-3 listings, newest first.
+4 listings, newest first.
 
 <table>
 <tr>
+<td width="25%" valign="top">
+<a href="../games/t/thread-ripper.md"><img src="../../media/thumbs/thread-ripper.webp" alt="Thread Ripper: A black-and-white manga roguelike set in a ruined shrine." width="100%"></a><br>
+<b><a href="../games/t/thread-ripper.md">Thread Ripper</a></b><br>
+A black-and-white manga roguelike set in a ruined shrine.<br>
+<sub>Game · Web browser · by <a href="../creators/tusharxo.md">Tushar</a></sub><br>
+<sub><a href="https://app.usecrayon.ai/play/thread-ripper?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=thread-ripper">Play</a> · <a href="https://x.com/TusharXo/status/2126334267894677982">Watch gameplay</a></sub>
+</td>
 <td width="25%" valign="top">
 <a href="../games/y/yoyo-survival.md"><img src="../../media/thumbs/yoyo-survival.webp" alt="Yoyo Survival: Fight waves of goblins with a cosmic yoyo and chain tricks to survive." width="100%"></a><br>
 <b><a href="../games/y/yoyo-survival.md">Yoyo Survival</a></b><br>
@@ -27,6 +34,5 @@ Fan-made Dragon Ball beat 'em up through the Red Ribbon camp to Muscle Tower<br>
 <sub>Game · Web browser · keyboard · free · by <a href="../creators/aniketjart.md">Aniket</a></sub><br>
 <sub><a href="https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8?utm_source=github&amp;utm_medium=awesome-list&amp;utm_campaign=awesome-ai-games-and-demos&amp;utm_content=goku-four-star-road">Play free</a> · <a href="https://x.com/aniketjart/status/2121793239175119279">Original gameplay</a></sub>
 </td>
-<td width="25%"></td>
 </tr>
 </table>

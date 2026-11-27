@@ -1,6 +1,56 @@
 {
-  "count": 4,
+  "count": 5,
   "games": [
+    {
+      "title": "Thread Ripper",
+      "summary": "A black-and-white manga roguelike set in a ruined shrine.",
+      "description": "In Chapter 1, dash through a ruined shrine, fight waves of stitched enemies, and grow stronger with each run.",
+      "genres": [
+        "action",
+        "roguelike"
+      ],
+      "tags": [
+        "manga",
+        "black-and-white",
+        "chapter-1"
+      ],
+      "platforms": [
+        "web"
+      ],
+      "inputs": [],
+      "modes": [],
+      "creators": [
+        "tusharxo"
+      ],
+      "made_with": [
+        "crayon",
+        "fable",
+        "neon",
+        "threejs"
+      ],
+      "links": [
+        {
+          "type": "play",
+          "url": "https://app.usecrayon.ai/play/thread-ripper"
+        }
+      ],
+      "videos": [
+        {
+          "type": "x",
+          "url": "https://x.com/TusharXo/status/2126334267894677982",
+          "label": "Watch gameplay"
+        }
+      ],
+      "added": "2026-11-27",
+      "slug": "thread-ripper",
+      "type": "game",
+      "url": "https://app.usecrayon.ai/play/thread-ripper",
+      "play_url": "https://app.usecrayon.ai/play/thread-ripper",
+      "page": "browse/games/t/thread-ripper.md",
+      "thumb": "media/thumbs/thread-ripper.webp",
+      "cover": "media/thumbs/thread-ripper.webp",
+      "featured": false
+    },
     {
       "title": "Yoyo Survival",
       "summary": "Fight waves of goblins with a cosmic yoyo and chain tricks to survive.",
@@ -201,18 +251,26 @@
         }
       ],
       "latest_update": {
-        "date": "2026-11-26",
-        "title": "Eighter joins Goku in the maze",
-        "summary": "Android 8 (Eighter) joins Goku to help him find a way out of the maze. Aniket says two more levels are still to come.",
+        "date": "2026-11-27",
+        "title": "Animation polish and two maps in development",
+        "summary": "Aniket shared a progression clip and described ongoing work on the 3D models for animation. Two more maps are in development. Aniket credits Gemini 4 Neon for recording the clip.",
         "play_url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8",
-        "video_url": "https://x.com/aniketjart/status/2125840506131522003",
-        "made_with": [
-          "fable-5-2",
-          "threejs",
-          "crayon"
-        ]
+        "video_url": "https://x.com/aniketjart/status/2126186809902440836",
+        "made_with": []
       },
       "previous_updates": [
+        {
+          "date": "2026-11-26",
+          "title": "Eighter joins Goku in the maze",
+          "summary": "Android 8 (Eighter) joins Goku to help him find a way out of the maze. Aniket says two more levels are still to come.",
+          "play_url": "https://app.usecrayon.ai/play/76dbd04f-0684-4486-8cc4-eae0585295e8",
+          "video_url": "https://x.com/aniketjart/status/2125840506131522003",
+          "made_with": [
+            "fable-5-2",
+            "threejs",
+            "crayon"
+          ]
+        },
         {
           "date": "2026-11-25",
           "title": "Ninja Murasaki and his brothers",
